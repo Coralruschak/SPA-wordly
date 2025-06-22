@@ -1,0 +1,45 @@
+body {
+  background-color: #cccccc;
+  padding: 7.5px;
+}
+
+h1 {
+  text-align: center;
+  padding: 20px;
+  color: #251a1a;
+  font-size: 45px;
+}
+
+#word-searched {
+  text-align: center;
+  font-size: 30px;
+  color: #251a1a;
+}
+
+form {
+  display: block;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+button {
+  background-color: #f6bbbb;
+  border:2px solid grey;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+button:hover {
+  background-color: #f48c8c;
+}
+
+input {
+  padding: 10px;
+}
+
+input:focus {
+  outline: none;
+  border: 2px solid grey;
+}
